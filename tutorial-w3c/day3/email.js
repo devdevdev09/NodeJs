@@ -22,3 +22,5 @@ transporter.sendMail(mailOptions, function(error, info){
         console.log('Email sent : ' + info.response);
     }
 });
+
+// TODO : 구글 안전하지 않은 앱 열기
